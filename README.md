@@ -1,3 +1,3 @@
-Copy and Paste Code, then hit run
+Recreated Wordle in Java Swing
 
-No assets needed
+Uses English Dictionary
